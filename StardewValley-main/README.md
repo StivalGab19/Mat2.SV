@@ -1,2 +1,0 @@
-# StardewValley
-bagulho do SV
