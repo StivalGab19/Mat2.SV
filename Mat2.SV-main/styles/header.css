@@ -2,4 +2,25 @@
     width: 24px;
     height: 24px;
     background-image: url(../img/hamburgermenu_120234.png);
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.cabecalho{
+    background-color: var(--branco);
+
+
+}
+.container{
+    display: flex;
+    align-items: center;
+}
+.container_imagem{
+    padding: 1em;
+}
+
+.lista-menu{
+    display: none;
+    
 }
